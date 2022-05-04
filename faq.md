@@ -26,6 +26,26 @@ If you can't find a reason on the status page, please join our [support server](
 
 <details>
 
+<summary>I am getting an error. What should I do?</summary>
+
+Our team gets notified about every error. So we will try fixing the error as soon as possible.
+
+If you want to help us solving the problem, you can report the bug with a bit more context (what were the arguments you provided, on what server did you use, …) via the `/bugreport` command
+
+</details>
+
+<details>
+
+<summary>Is Luigi free?</summary>
+
+Yes, Luigi is 100% free. All features are available without paying.
+
+If you want to support Luigi you can vote [here](https://top.gg/bot/705059255899914291/vote)
+
+</details>
+
+<details>
+
 <summary>My question is not answered here</summary>
 
 If your question isn't answered here, please join our [support server](https://discord.gg/f5EZpVHeYf) and ask your question there!
